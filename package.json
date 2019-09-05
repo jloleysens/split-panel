@@ -1,0 +1,16 @@
+{
+  "name": "split_panel",
+  "version": "1.0.0",
+  "description": "A split panel!",
+  "main": "index.js",
+  "author": "Jean-Louis Leysens <jloleysens@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "16.9.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.2",
+    "typescript": "3.6.2"
+  }
+}

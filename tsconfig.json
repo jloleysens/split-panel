@@ -1,0 +1,11 @@
+{
+  "exclude": ["dist"],
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "es2015",
+    "lib": ["dom", "es2016"],
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node"
+  }
+}
